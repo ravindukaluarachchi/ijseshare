@@ -1,0 +1,4 @@
+#ijseshare configuration file
+port = 1099 
+ip   = localhost 
+
